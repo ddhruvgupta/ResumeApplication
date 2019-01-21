@@ -20,3 +20,4 @@ edit.php Will support the addition of new position entries, the deletion of any 
 If the user goes to an add, edit, or delete script without being logged in, die with a message of "ACCESS DENIED".
 
 ### Screenshots
+<img src="https://raw.githubusercontent.com/ddhruvgupta/ResumeApplication/master/screenshots/1.png" width="1000" />
